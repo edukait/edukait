@@ -5,7 +5,7 @@ i'm a current freshman at mit majoring in computer science with minors in politi
 ### ✏️ what i'm working on
 * creating a personal website/portfolio
 * learning react.js and node.js
-* statistical analysis on federal loan data
+* conducting statistical analyses on federal loan data
 * practicing leetcode problems
 
 ### 🎧 what i'm listening to
