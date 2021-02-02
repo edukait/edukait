@@ -10,7 +10,7 @@ i'm a current freshman at mit majoring in computer science with minors in politi
 
 ### 🎧 what i'm listening to
 <a href="https://natemoo-re-qcc6xblnj.vercel.app/now-playing?open">
-    <img src="https://natemoo-re-qcc6xblnj.vercel.app/now-playing" width="512" height="128" alt="Now Playing">`
+    <img src="https://natemoo-re-qcc6xblnj.vercel.app/now-playing" width="400" height="100" alt="Now Playing">`
 </a>
 <!--
 **edukait/edukait** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
