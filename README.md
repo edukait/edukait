@@ -1,12 +1,16 @@
-### 👩🏻‍💻 Hi, I'm Kaitlin!
+## 👩🏻‍💻 hi, i'm kaitlin!
 
-![banner](/images/banner.png)
+i'm a current freshman at mit majoring in computer science with minors in political science and economics, and i am passionate about empowering communities and individuals through tech. some technologies i am familiar with include python, r, and java, along with some basic knowledge of c++, sql, and javascript. for more information, you can look through my [linkedin](https://linkedin.com/edukait) or contact me via [email](mailto:kaitlim@mit.edu).
 
-I'm a current freshman at MIT who is passionate about empowering communities and individuals through tech. Some technologies I am familiar with include Python, R, and Java, along with some basic knowledge of C++, SQL, and JavaScript. For more information, you can look through my [LinkedIn](https://linkedin.com/edukait) or contact me via [email](mailto:kaitlim@mit.edu).
+### ✏️ what i'm working on
+* creating a personal website/portfolio
+* learning react.js and node.js
+* statistical analysis on federal loan data
+* practicing leetcode problems
 
-## Spotify
+### 🎧 what i'm listening to
 <a href="https://natemoo-re-qcc6xblnj.vercel.app/now-playing?open">
-    <img src="https://natemoo-re-qcc6xblnj.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
+    <img src="https://natemoo-re-qcc6xblnj.vercel.app/now-playing" width="512" height="128" alt="Now Playing">`
 </a>
 <!--
 **edukait/edukait** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
