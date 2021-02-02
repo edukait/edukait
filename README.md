@@ -9,8 +9,31 @@ i'm a current freshman at mit majoring in computer science with minors in politi
 * practicing leetcode problems
 
 ### 🎧 what i'm listening to
-<a href="https://natemoo-re-qcc6xblnj.vercel.app/now-playing?open">
-    <img src="https://natemoo-re-qcc6xblnj.vercel.app/now-playing" width="400" height="100" alt="Now Playing">`
-</a>
+
+| now playing                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------ |
+| <a href="https://natemoo-re-qcc6xblnj.vercel.app/now-playing?open"><img src="https://natemoo-re-qcc6xblnj.vercel.app/now-playing" width="540" height="64"></a> |
+
+<table>
+  <thead>
+    <tr>
+      <th>top tracks</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://natemoo-re-qcc6xblnj.vercel.app/top-tracks?i=1&open"><img src="https://natemoo-re-qcc6xblnj.vercel.app/top-tracks?i=1" width="540" height="64"></a></td>
+    </tr>
+    <tr></tr> <!-- hide gray row -->
+    <tr>
+      <td><a href="https://natemoo-re-qcc6xblnj.vercel.app/top-tracks?i=2&open"><img src="https://natemoo-re-qcc6xblnj.vercel.app/top-tracks?i=2" width="540" height="64"></a></td>
+    </tr>
+    <tr></tr> <!-- hide gray row -->
+    <tr>
+      <td><a href="https://natemoo-re-qcc6xblnj.vercel.app/top-tracks?i=3&open"><img src="https://natemoo-re-qcc6xblnj.vercel.app/top-tracks?i=3" width="540" height="64"></a></td>
+    </tr>
+  </tbody>
+</table>
+
 <!--
 **edukait/edukait** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
