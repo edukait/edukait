@@ -1,6 +1,6 @@
 ## 👩🏻‍💻 hi, i'm kaitlin!
 
-i'm a current freshman at mit majoring in computer science with minors in political science and economics, and i am passionate about empowering communities and individuals through tech. some technologies i am familiar with include python, r, and java, along with some basic knowledge of c++, sql, and javascript. for more information, you can look through my [linkedin](https://linkedin.com/edukait) or contact me via [email](mailto:kaitlim@mit.edu).
+i'm a junior at mit majoring in computer science, data sciencee, and economics! i am passionate about empowering communities and individuals through tech, as well as exploring the intersections of finance, economics, and computer science. some technologies i am familiar with include python, r, and java, along with some basic knowledge of c++, sql, and javascript. for more information, you can look through my [linkedin](https://linkedin.com/in/edukait) or contact me via [email](mailto:kaitlim@mit.edu).
 
 ### ✏️ what i'm working on
 * creating a personal website/portfolio
